@@ -1,0 +1,70 @@
+@charset "UTF-8";
+/* CSS Document */
+
+<style type="text/css">
+body,td,th {
+	font-family: "Open Sans", Verdana, Geneva, sans-serif;
+	font-size: 14px;
+}
+body {
+	background-image: url();
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family: "Open Sans", Verdana, Geneva, sans-serif;
+	font-size: 14px;
+}
+a:visited {
+	color: #00F;
+	text-decoration: none;
+}
+a:hover {
+	color: #00F;
+	text-decoration: none;
+}
+a:active {
+	color: #00F;
+	text-decoration: none;
+}
+a:link {
+	color: #00F;
+	text-decoration: none;
+}
+.Head2 {
+	color: #900;
+	font-size: 24px;
+	font-weight: 700;
+}
+.Head2bl {
+	color: #000;
+	font-size: 19px;
+	font-weight: 300;
+}
+.Head1 {
+	color: #666;
+}
+.foot1 {	color: #666;
+	font-size: 10px;
+	text-align: center;
+}
+.caption1 {
+	color: #333;
+	font-size: 10px;
+	text-align: right;
+}
+.Head11 {
+	color: #666;
+	font-size: 64px;
+	font-weight: 300;
+}
+.Head3 {
+	color: #000;
+	font-size: 24px;
+	font-weight: 700;
+}
+.body2 {
+	color: #000;
+	font-size: 20px;
+}
+</style>
